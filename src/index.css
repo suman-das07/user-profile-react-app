@@ -67,12 +67,13 @@ body {
   gap: 25px;
 }
 .cta button{
-padding: 1.5vh 6vw;
+padding: 1.2vh 6vw;
 border: none;
 border-radius: 50px;
 background-color: #1b1b1b;
 color: whitesmoke;
 text-align: center;
+flex-wrap: wrap;
 
 }
 #save{

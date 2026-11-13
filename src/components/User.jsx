@@ -69,6 +69,13 @@ const users = [
     name: "Ava Mitchell",
     role: "AI/ML Engineer",
   },
+  {
+    id: 11,
+    image:
+      "https://images.unsplash.com/photo-1758506971986-b0d0edebd8d5?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    name: "Henry David Thoreau",
+    role: "AI/ML Engineer",
+  },
 ];
 
 export default users
