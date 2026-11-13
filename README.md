@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="User Profile Cards" width="100%"/>
+<img src="bannerreact.svg" alt="User Profile Cards" width="100%"/>
 
 ![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-8-a78bfa?style=flat-square&logo=vite&logoColor=white)
@@ -37,7 +37,7 @@ flowchart TD
 
 ## Tech stack
 
-<img src="assets/stack-3d.svg" alt="3D tech stack: React, Vite, Lucide React, ESLint" width="100%"/>
+<img src="stack-3d.svg" alt="3D tech stack: React, Vite, Lucide React, ESLint" width="100%"/>
 
 | Part | Version (from `package.json`) | Used for |
 |---|---|---|
